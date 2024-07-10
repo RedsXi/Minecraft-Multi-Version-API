@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "mcmvapi",
+  "version": "${version}",
+  "name": "Minecraft Multi-Version API",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "GPL-3.0",
+  "environment": "*",
+  "entrypoints": {},
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
