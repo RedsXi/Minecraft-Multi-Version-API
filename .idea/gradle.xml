@@ -14,14 +14,6 @@
           </set>
         </option>
       </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/fabric-1-19-4" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/fabric-1-19-4" />
-          </set>
-        </option>
-      </GradleProjectSettings>
     </option>
   </component>
 </project>

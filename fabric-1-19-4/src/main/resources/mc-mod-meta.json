@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft Multi-Version API",
+  "modId": "mcmvapi",
+  "version": "0.0.1-alpha",
+  "entry": "org.redsxi.mc.mvapi.ModMain"
+}
